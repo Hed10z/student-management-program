@@ -1,0 +1,9 @@
+{
+  "name": "studnt-system",
+  "version": "1.0.0",
+  "author": "Hedi",
+  "scripts": {
+    "dev": "g++ ./src/main.cpp -o system.exe && system.exe",
+    "build": "g++ ./src/main.cpp -o system.exe"
+  }
+}
