@@ -38,7 +38,7 @@ int main() {
             command_list(students);
         }
         else if (command == "add") {
-            command_add(students);  // ✅ directly allow adding student
+            command_add(students); 
         }
         else if (command == "search") {
             command_search(students);
